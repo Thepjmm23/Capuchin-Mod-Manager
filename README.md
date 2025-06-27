@@ -17,7 +17,9 @@ A mod manager for **Capuchin** mods.
 ## 📸 Preview
 
 ![Capuchin Mod Manager UI](https://github.com/Thepjmm23/Capuchin-Mod-Manager/blob/main/image.png?raw=true)
+
 **everything in this image will change in future updates**
+
 ---
 
 ## 📥 How to Use
