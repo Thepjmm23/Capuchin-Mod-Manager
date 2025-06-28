@@ -43,7 +43,7 @@ A simple and fast mod manager for **Capuchin** mods.
 | MelonLoader       | Core mod loader                           |
 | MelonLoader Fix   | Fixes IL2CPP-related mod issues           |
 | Unity Explorer    | Debug and inspect Unity games             |
-| Capuchin Emotes   | Adds new in-game emotes                   |
+| Capuchin Emotes   | Adds emotes                   |
 
 ---
 ## 🧠 Credits
