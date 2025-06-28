@@ -1,16 +1,18 @@
 # 🎮 Capuchin Mod Manager
 
-A mod manager for **Capuchin** mods.
+A simple and fast mod manager for **Capuchin** mods.
 
 ---
 
 ## ✨ Features
 
-- ✅ One-click **MelonLoader** install
-- 🛠️ Automatic **MelonLoader Fix**
-- 📦 Easy mod installation (like **Unity Explorer**)
-- 🎨 Built-in color theme picker (red, blue, green) **this will change in future updates**
-- 📁 Simple folder browser for selecting your game directory
+- ✅ One-click **MelonLoader** installer  
+- 🛠️ Built-in **MelonLoader Fix** for IL2CPP compatibility  
+- 📦 Easy mod installation (like **Unity Explorer**, **Capuchin Emotes**)  
+- 🎨 Color theme picker — choose your own background color  
+- 📁 Automatic detection of the Capuchin game directory (Steam default path)  
+- 💾 Game directory + color settings are saved and loaded automatically  
+- 📂 Quick access buttons to open your **Game Folder** or **Mods Folder**
 
 ---
 
@@ -18,30 +20,32 @@ A mod manager for **Capuchin** mods.
 
 ![Capuchin Mod Manager UI](https://github.com/Thepjmm23/Capuchin-Mod-Manager/blob/main/image.png?raw=true)
 
-**everything in this image is subject to change in future updates**
+> Everything in this image is subject to change in future updates.
 
 ---
 
 ## 📥 How to Use
 
 1. 🗂️ Launch the app  
-2. 🔍 Select your Capuchin game directory  
-3. ✅ Choose the mods you want  
-4. 🚀 Click “Install Selected Mods”  
-5. 🎉 Done!
+2. 📍 If installed via Steam, your Capuchin directory is found automatically  
+3. 🔍 If not, browse to it manually  
+4. ✅ Choose the mods you want  
+5. 🚀 Click “Install Selected Mods”  
+6. 📂 Use the folder buttons to easily view installed mods  
+7. 🎉 Done!
 
 ---
 
 ## 🧩 Included Mods
 
-| Mod Name         | Description                                |
-|------------------|--------------------------------------------|
-| MelonLoader      | Core mod loader                            |
-| MelonLoader Fix  | Fixes IL2CPP issues                        |
-| Unity Explorer   | Debug and inspect Unity games              |
+| Mod Name          | Description                               |
+|-------------------|-------------------------------------------|
+| MelonLoader       | Core mod loader                           |
+| MelonLoader Fix   | Fixes IL2CPP-related mod issues           |
+| Unity Explorer    | Debug and inspect Unity games             |
+| Capuchin Emotes   | Adds new in-game emotes                   |
 
 ---
-
 ## 🧠 Credits
 
 Made by [Thepjmm23](https://github.com/Thepjmm23)  
